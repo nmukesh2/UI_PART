@@ -6,7 +6,7 @@ import Search from "./Search";
 import * as serviceWorker from "./serviceWorker";
 //import Post from "./Post";
 import Application from "./Application";
-//import DividerExampleVerticalForm from './Login';
+
 ReactDOM.render(<Search />, document.getElementById("root"));
 //ReactDOM.render(<DividerExampleVerticalForm />, document.getElementById('root'));
 // If you want your app to work offline and load faster, you can change
